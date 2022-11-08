@@ -1,1 +1,2 @@
-<h1><a href="https://itsoon-xyz.github.io/ARCADE/">Hello Github</a></h1>
+<h1><a href="https://www.arcade-xyz.ml">ARCADE PROJECT</a></h1>
+<h3><a href="https://twitter.com/Itsoon_off">Twitter</a></3>
