@@ -1,4 +1,9 @@
-<h1><a href="https://github.com/Itsoon-xyz/ARCADE">ARCADE PROJECT</a></h1>
-<h3><a href="https://www.arcade-project.ml/">Arcade</a></h3>
-<h3><a href="https://twitter.com/Itsoon_off">Twitter</a></3>
-<h3><a href="https://discord.gg/ejJmR5Y9YC">Discord</a></h3>
+# <a href="https://github.com/Itsoon-xyz/ARCADE">ARCADE PROJECT WEBSITE</a>
+### <a href="https://www.arcade-project.ml/">Arcade Repository</a>
+### <a href="https://twitter.com/Itsoon_off">Twitter</a>
+### <a href="https://discord.gg/ejJmR5Y9YC">Discord</a>
+
+---
+
+### Number of visitors
+<img src="https://profile-counter.glitch.me/Itsoon-xyz/count.svg" style="max-width:100%;">
