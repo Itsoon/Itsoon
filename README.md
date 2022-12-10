@@ -5,5 +5,4 @@
 
 ---
 
-### Number of visitors
-<img src="https://profile-counter.glitch.me/Itsoon-xyz/count.svg" style="max-width:100%;">
+![](https://komarev.com/ghpvc/?username=Itsoon-xyz&style=for-the-badge)
