@@ -7,4 +7,3 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Itsoon-xyz&show_icons=true&bg_color=000000&title_color=8300FF&hide_border=true&border_radius=12&icon_color=8300FF&text_color=bdbdbd&text_bold=true" alt="Itsoon-xyz" />
 
 <img align="center" src="https://github.com/Itsoon-xyz/Itsoon-xyz/blob/output/github-contribution-grid-snake.svg">
-#GH-DARK-MODE-ONLY
