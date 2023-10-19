@@ -1,5 +1,5 @@
 # <div align="center"><a target="_blank" href="https://www.arcade-project.xyz/">ARCADE WEBSITE</a></div>
-<div align="center"><a target="_blank" href="https://github.com/Itsoon-xyz/ARCADE"><img src="https://img.shields.io/badge/ARCADE Repository-2b2b2b?style=for-the-badge&logo=Github&logoColor=white"></a> <a target="_blank" href="https://twitter.com/Itsoon_xyz"><img src="https://img.shields.io/badge/Twitter-1a8cd8?style=for-the-badge&logo=Twitter&logoColor=white"></a> <a target="_blank" href="https://discord.gg/ejJmR5Y9YC"><img src="https://img.shields.io/badge/Discord-0f1ba1?style=for-the-badge&logo=Discord&logoColor=white"></a> <img src="https://img.shields.io/badge/youtube-ff1a1a?style=for-the-badge&logo=youtube&logoColor=white"> <img src="https://komarev.com/ghpvc/?username=Itsoon-xyz&style=for-the-badge" /></div>
+<div align="center"><a target="_blank" href="https://github.com/Itsoon-xyz/ARCADE"> <img src="https://img.shields.io/badge/ARCADE Repository-2b2b2b?style=for-the-badge&logo=Github&logoColor=white"><img src="https://komarev.com/ghpvc/?username=Itsoon-xyz&style=for-the-badge" /></div>
 
 ---
 <div align="center">
